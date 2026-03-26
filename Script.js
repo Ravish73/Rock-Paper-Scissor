@@ -60,3 +60,8 @@ function playgame(choice) {
   Draw.textContent="Draw "+drawCount;
   
 }
+
+
+let myFunction =()=>{
+  console.log(" indside Arrow Function");
+}

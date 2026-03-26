@@ -27,6 +27,7 @@ p {
   padding: 30px;
   gap: 40px;
   margin-top: 40px;
+
 }
 
 .img button {
@@ -34,7 +35,7 @@ p {
   background-color: transparent;
   border: none;
   cursor: pointer;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); */
 }
 
 body {
